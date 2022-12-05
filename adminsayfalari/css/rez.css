@@ -1,0 +1,31 @@
+html,body{
+background-image: url(../../img/kapak.jpg);
+height: 100%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.container{
+height: 100%;
+align-content: center;
+}
+
+.card{
+height: 320px;
+margin-top: auto;
+margin-bottom: auto;
+width: 400px;
+background-color: rgba(0,0,0,0.5) !important;
+}
+
+
+.card-header h3{
+color: white;
+}
+.card-header h5{
+color: white;
+}
+
+
+
